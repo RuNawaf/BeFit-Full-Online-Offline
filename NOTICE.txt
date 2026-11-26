@@ -1,0 +1,3 @@
+# Qwen model license notice
+Qwen is licensed under the Qwen RESEARCH LICENSE AGREEMENT, Copyright (c) Alibaba Cloud. All Rights Reserved.
+The full Qwen license is included in Modelfile.
